@@ -1,7 +1,7 @@
 
 # ICT Academy
 
-![ictacademy](https://github.com/jaloliddin1006/ictacademy/assets/70073648/6bbf1b23-fa93-451e-97ce-a5460d5a3128)
+![ictacademy](https://github.com/ict-jobs/.github/assets/70073648/ccb47740-6ea3-4767-beb0-4defa47a175b)
 
 
 <img src="https://user-images.githubusercontent.com/70073648/201748719-b86ffb9d-0cc4-4684-a60d-89ba54a443ac.gif" alt="MarineGEO circle logo" style="height: 220px; width:405px;"/> <img src="https://user-images.githubusercontent.com/70073648/201746077-3b7875ce-bc61-4fa9-beb2-2b4bf364e3d5.gif" alt="MarineGEO circle logo" style="height: 220px; width:405px;"/> 
